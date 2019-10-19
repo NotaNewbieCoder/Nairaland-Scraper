@@ -1,2 +1,2 @@
 # Nairaland-Scraper
-Webscraper for scraping comments and threads on a specified search input
+Webscraper for scraping comments and threads from nairaland on a specified search input
